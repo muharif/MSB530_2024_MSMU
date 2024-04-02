@@ -18,7 +18,8 @@ sum(a,b)
 b - c
 a * c
 b / a
-
+c %% a #modulo
+c %/% a
 
 d <- abs(a-b)
 
