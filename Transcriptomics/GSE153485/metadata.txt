@@ -1,0 +1,11 @@
+NGI ID	Tissue	Treatment	Time
+CMC_heart_24h_SHAM_13_016_S16	heart	SHAM	24h
+CMC_heart_24h_MI_16_011_S11	heart	MI	24h
+CMC_heart_24h_SHAM_17_017_S17	heart	SHAM	24h
+CMC_heart_24h_SHAM_19_018_S18	heart	SHAM	24h
+CMC_heart_24h_MI_20_012_S12	heart	MI	24h
+CMC_heart_24h_SHAM_21_019_S19	heart	SHAM	24h
+CMC_heart_24h_SHAM_25_020_S20	heart	SHAM	24h
+CMC_heart_24h_MI_30_013_S13	heart	MI	24h
+CMC_heart_24h_MI_32_014_S14	heart	MI	24h
+CMC_heart_24h_MI_34_015_S15	heart	MI	24h

@@ -1,0 +1,65 @@
+Run	disease
+SRR7426784	non-failing
+SRR7426785	non-failing
+SRR7426786	non-failing
+SRR7426787	non-failing
+SRR7426788	non-failing
+SRR7426789	non-failing
+SRR7426790	non-failing
+SRR7426791	non-failing
+SRR7426792	non-failing
+SRR7426793	non-failing
+SRR7426794	non-failing
+SRR7426795	non-failing
+SRR7426796	non-failing
+SRR7426797	non-failing
+SRR7426798	dilated cardiomyopathy
+SRR7426799	dilated cardiomyopathy
+SRR7426800	dilated cardiomyopathy
+SRR7426801	dilated cardiomyopathy
+SRR7426802	dilated cardiomyopathy
+SRR7426803	dilated cardiomyopathy
+SRR7426804	dilated cardiomyopathy
+SRR7426805	dilated cardiomyopathy
+SRR7426806	dilated cardiomyopathy
+SRR7426807	dilated cardiomyopathy
+SRR7426808	dilated cardiomyopathy
+SRR7426809	dilated cardiomyopathy
+SRR7426810	dilated cardiomyopathy
+SRR7426811	dilated cardiomyopathy
+SRR7426812	dilated cardiomyopathy
+SRR7426813	dilated cardiomyopathy
+SRR7426814	dilated cardiomyopathy
+SRR7426815	dilated cardiomyopathy
+SRR7426816	dilated cardiomyopathy
+SRR7426817	dilated cardiomyopathy
+SRR7426818	dilated cardiomyopathy
+SRR7426819	dilated cardiomyopathy
+SRR7426820	dilated cardiomyopathy
+SRR7426821	dilated cardiomyopathy
+SRR7426822	dilated cardiomyopathy
+SRR7426823	dilated cardiomyopathy
+SRR7426824	dilated cardiomyopathy
+SRR7426825	dilated cardiomyopathy
+SRR7426826	dilated cardiomyopathy
+SRR7426827	dilated cardiomyopathy
+SRR7426828	dilated cardiomyopathy
+SRR7426829	dilated cardiomyopathy
+SRR7426830	dilated cardiomyopathy
+SRR7426831	dilated cardiomyopathy
+SRR7426832	dilated cardiomyopathy
+SRR7426833	dilated cardiomyopathy
+SRR7426834	dilated cardiomyopathy
+SRR7426835	ischemic cardiomyopathy
+SRR7426836	ischemic cardiomyopathy
+SRR7426837	ischemic cardiomyopathy
+SRR7426838	ischemic cardiomyopathy
+SRR7426839	ischemic cardiomyopathy
+SRR7426840	ischemic cardiomyopathy
+SRR7426841	ischemic cardiomyopathy
+SRR7426842	ischemic cardiomyopathy
+SRR7426843	ischemic cardiomyopathy
+SRR7426844	ischemic cardiomyopathy
+SRR7426845	ischemic cardiomyopathy
+SRR7426846	ischemic cardiomyopathy
+SRR7426847	ischemic cardiomyopathy

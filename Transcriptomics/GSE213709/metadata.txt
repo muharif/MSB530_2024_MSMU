@@ -1,0 +1,11 @@
+	Treatment
+13-Bleo14D-1	Bleomycin_14D
+15-Bleo14D-3	Bleomycin_14D
+16-Bleo14D-4	Bleomycin_14D
+17-Bleo14D-5	Bleomycin_14D
+18-Bleo14D-6	Bleomycin_14D
+12-Control14D-4	Control
+11-Control14D-3	Control
+22-Control21D-6	Control
+32-Control28D-8	Control
+1-Control7D-1	Control
